@@ -1,4 +1,5 @@
 # Email, Call and Messaging App
+Android App based on Java that can send Emails, Messages and make calls
 
 ## Requirements
 You will need a gmail account to send an email from it.
