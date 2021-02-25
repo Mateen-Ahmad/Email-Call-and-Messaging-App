@@ -21,7 +21,7 @@ You may get a notification from goole saying Login attempt blocked and allow thi
 
 
 ### Send Messages
-!<img src="https://user-images.githubusercontent.com/49470299/109165083-f7260680-779c-11eb-98db-3a12a4bb1b6a.jpg" width="360">
+<img src="https://user-images.githubusercontent.com/49470299/109165083-f7260680-779c-11eb-98db-3a12a4bb1b6a.jpg" width="360">
 
 ### Send Emails
-!<img src="https://user-images.githubusercontent.com/49470299/109165085-f7260680-779c-11eb-8ebe-e493ddd40da0.jpg" width="360">
+<img src="https://user-images.githubusercontent.com/49470299/109165085-f7260680-779c-11eb-8ebe-e493ddd40da0.jpg" width="360">
