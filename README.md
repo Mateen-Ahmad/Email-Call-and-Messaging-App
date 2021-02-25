@@ -8,9 +8,9 @@ You may get a notification from goole saying Login attempt blocked and allow thi
 
 ### Add your Creedentials in Utils.Java
 
-<img src=https://user-images.githubusercontent.com/49470299/109164081-d5784f80-779b-11eb-956c-d6031c4ce0ee.png" >
+<img src=https://user-images.githubusercontent.com/49470299/109164081-d5784f80-779b-11eb-956c-d6031c4ce0ee.png>
 
-### Screenshoots
+## Screenshots
 ### Home Screen
 
 <img src=https://user-images.githubusercontent.com/49470299/109165086-f7be9d00-779c-11eb-9f79-87576fe14d10.jpg width="360">
